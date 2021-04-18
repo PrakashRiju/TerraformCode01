@@ -1,2 +1,1 @@
-vpc_networking/.terraform/plugins/
-.idea/.terraform/plugins/
+*.terraform
